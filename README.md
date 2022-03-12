@@ -4,13 +4,11 @@ This is Mostafijur Rahman, Currently I am working in <a href ="https://brainstat
 
 
 ## 📬 Get in touch with me
-<p align='center'>
-<a href="https://mostafijurj.blogspot.com/"><img height="30" src="https://user-images.githubusercontent.com/40955844/98124504-7b4a3a80-1edd-11eb-9708-c07e1d70040e.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/Kajol81302716"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/mostafijurj/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mostafijur-rahman-b445a5130/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
-
+- Facebook: https://www.facebook.com/jmostafijur/
+- Email: mostafijurj@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mostafijur-rahman-b445a5130/
+- Blog: https://mostafijurj.blogspot.com/
+- Twitter: https://twitter.com/Kajol81302716
 
 ## &#x1f4c8; My GitHub Stats
 
