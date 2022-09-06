@@ -1,7 +1,7 @@
 
 <img src="me.png">
 <br>
-Currently I am working in <a href ="https://brainstation-23.com/"> Brain Station 23 Limited </a>  as a Associate Software Engineer. I am working with Spring Boot Framework in JAVA.  I pursued my bachelor's degree from <a href ="https://just.edu.bd/"> Jashore University of Science and Technology </a>  in the Department of Computer Science and Engineering(CSE) in 2020. 
+Currently I am working in <a href ="https://brainstation-23.com/"> Brain Station 23 Limited </a>  as a Software Engineer. I am working with Spring Boot Framework in JAVA.  I pursued my bachelor's degree from <a href ="https://just.edu.bd/"> Jashore University of Science and Technology </a>  in the Department of Computer Science and Engineering(CSE) in 2020. 
 
 
 ## 📬 Get in touch with me
