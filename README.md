@@ -1,8 +1,12 @@
 
 <img src="me.png">
 <br>
-Currently I am working in <a href ="https://brainstation-23.com/"> Brain Station 23 Limited </a>  as a Software Engineer. I am working with Spring Boot Framework in JAVA.  I pursued my bachelor's degree from <a href ="https://just.edu.bd/"> Jashore University of Science and Technology </a>  in the Department of Computer Science and Engineering(CSE) in 2020. 
 
+As a Java developer with over 2.5 years of experience in the industry, I have a strong foundation in object-oriented programming and a passion for solving complex technical challenges.
+
+In my current role as a Java developer at <a href ="https://brainstation-23.com/"> Brain Station 23 Limited </a>, I have worked on a variety of projects, including the development of Internet Banking systems and wallets. I am always looking for ways to improve my skills and knowledge as a developer.
+
+I pursued my bachelor's degree from <a href ="https://just.edu.bd/"> Jashore University of Science and Technology </a>  in the Department of Computer Science and Engineering(CSE) in 2020. 
 
 ## 📬 Get in touch with me
 - Facebook: https://www.facebook.com/jmostafijur/
