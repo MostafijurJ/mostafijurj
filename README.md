@@ -25,4 +25,7 @@ I pursued my bachelor's degree from <a href ="https://just.edu.bd/"> Jashore Uni
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafijurj&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
 </a>
 
-[![Visits Badge](https://badges.pufler.dev/visits/MostafijurJ/MostafijurJ)](https://github.com/MostafijurJ)
+## GitHub Readme Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MostafijurJ&theme=radical&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&ring=EB5454)](https://git.io/streak-stats)
+
