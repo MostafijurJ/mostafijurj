@@ -2,11 +2,31 @@
 <img src="me.png">
 <br>
 
-As a Java developer with over 4 years of experience in the industry, I have a strong foundation in object-oriented programming and a passion for building scalable and efficient solutions.
+## 🚀 Java Backend Developer | 5+ Years Experience | Fintech | Spring Boot | Apache Kafka | Microservices | Docker | Kubernetes
 
-In my current role as a Java developer at <a href="https://brainstation-23.com/">Brain Station 23 Limited</a>, I have worked on a variety of projects, including the development of *Internet Banking* systems and *microservices* based platforms. I have extensive experience with tools and technologies such as *Java, Spring Boot, PostgreSQL, Oracle, and Apache Kafka for real-time data processing, as well as CI/CD tools like Docker, Kubernetes, GitHub Actions, and Jenkins*. I am always looking for ways to improve my skills and knowledge as a developer.
+Hi there! I'm Mostafijur Rahman, a passionate and detail-oriented Java developer with over 5 years of experience designing and developing scalable, efficient, and secure backend systems.
 
-I pursued my bachelor's degree from <a href="https://just.edu.bd/">Jashore University of Science and Technology</a> in the Department of Computer Science and Engineering (CSE) in 2019.
+Currently, I’m working at Brain Station 23, specializing in developing Internet Banking systems and microservices-based platforms. My focus lies in real-time data processing, system optimization, and robust architecture design.
+
+## 🔧 Tech Stack & Tools:
+Languages: Java, Go
+
+Frameworks: Spring Boot, Spring MVC, Spring Security, Spring Batch, Hibernate, JPA
+
+Databases: PostgreSQL, Oracle, MySQL
+
+Messaging/Event Streaming: Apache Kafka
+
+DevOps & CI/CD: Docker, Kubernetes, Jenkins, GitHub Actions
+
+Security: OAuth2, JWT
+
+Other: Quartz, Actor System, REST APIs, Agile practices
+
+### 🎓 Graduated in Computer Science and Engineering from Jashore University of Science and Technology (JUST) in 2019.
+
+🧠 Always eager to learn, solve complex problems, and contribute to impactful backend systems.
+
 
 ## 📬 Get in touch with me
 - Facebook: https://www.facebook.com/jmostafijur/
