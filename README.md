@@ -31,7 +31,7 @@ Other: Quartz, Actor System, REST APIs, Agile practices
 ## 📬 Get in touch with me
 - Facebook: https://www.facebook.com/jmostafijur/
 - Email: mostafijurj@gmail.com
-- LinkedIn: https://www.linkedin.com/in/mostafijur-rahman-b445a5130/
+- LinkedIn: https://www.linkedin.com/in/mostafijurj/
 - Blog: https://mostafijurj.blogspot.com/
 - Twitter: https://twitter.com/Kajol81302716
 
