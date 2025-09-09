@@ -2,26 +2,65 @@
 <img src="me.png">
 <br>
 
-## 🚀 Java Backend Developer | 5+ Years Experience | Fintech | Spring Boot | Apache Kafka | Microservices | Docker | Kubernetes
+# 🚀 Java Backend Developer | 5+ Years Experience | Fintech | Spring Boot | Apache Kafka | Microservices | Docker | Kubernetes
 
-Hi there! I'm Mostafijur Rahman, a passionate and detail-oriented Java developer with over 5 years of experience designing and developing scalable, efficient, and secure backend systems.
+Hi there! I'm **Mostafijur Rahman**, a passionate and detail-oriented Java developer with over **5 years of experience** designing and developing scalable, efficient, and secure backend systems.
 
-Currently, I’m working at Brain Station 23, specializing in developing Internet Banking systems and microservices-based platforms. My focus lies in real-time data processing, system optimization, and robust architecture design.
+Currently, I’m working at **Brain Station-23**, specializing in developing Internet Banking systems and microservices-based platforms. My focus lies in **real-time data processing, system optimization, and robust architecture design**.
 
-## 🔧 Tech Stack & Tools:
-Languages: Java, Go
+---
 
-Frameworks: Spring Boot, Spring MVC, Spring Security, Spring Batch, Hibernate, JPA
+## 🔧 Tech Stack & Tools
 
-Databases: PostgreSQL, Oracle, MySQL
+**Languages:** Java, Go  
+**Frameworks:** Spring Boot, Spring MVC, Spring Security, Spring Batch, Hibernate, JPA  
+**Databases:** PostgreSQL, Oracle, MySQL, Microsoft SQL Server  
+**Messaging/Event Streaming:** Apache Kafka  
+**DevOps & CI/CD:** Docker, Kubernetes, Jenkins, GitHub Actions  
+**Security:** OAuth2, JWT, Keycloak  
+**Other:** Quartz, Actor System, REST APIs, Agile practices, JasperReports  
 
-Messaging/Event Streaming: Apache Kafka
+---
 
-DevOps & CI/CD: Docker, Kubernetes, Jenkins, GitHub Actions
+## 💼 Professional Experience
 
-Security: OAuth2, JWT
+### **Senior Software Engineer I**  
+**Brain Station-23 Ltd. | Dhaka, Bangladesh | 2020 – Present**
 
-Other: Quartz, Actor System, REST APIs, Agile practices
+At Brain Station-23, I’ve been working as a **Java Backend Developer** in the **fintech domain**, primarily focusing on building scalable and secure Internet Banking systems and enterprise-grade microservices platforms.  
+
+#### 🔹 Key Projects & Contributions  
+
+- **NCC Always (NCC Bank)**  
+  - Designed and developed core **Internet Banking features** including account management, fund transfers, and bill payments.  
+  - Implemented **secure authentication and authorization mechanisms** using **Spring Security, OAuth2, and JWT**.  
+  - Optimized PostgreSQL and Oracle queries to **reduce transaction latency and improve performance**.  
+
+- **UNET Enterprise & Retail Banking (United Commercial Bank PLC)**  
+  - Built and enhanced **real-time payment services** with **Apache Kafka** for an event-driven architecture.  
+  - Integrated **Actor System** with microservices to handle high-volume financial transactions reliably.  
+  - Developed **bulk payment processing** and **corporate banking features**, ensuring high scalability.  
+  - Resolved **critical production issues**, maintaining **99.9% uptime** for banking services.  
+
+- **City Optima Project**  
+  - Developed backend services for **subscription billing, account/card payments, and notification systems**.  
+  - Implemented **Quartz Scheduler** for automated billing and recurring transactions.  
+  - Containerized microservices with **Docker & Kubernetes**, ensuring high availability and scalability.  
+
+- **Micro Invoicing Solution – Enterprise Invoice Management System**  
+  - Built a **multi-tenant invoice management system** with 15+ REST APIs using **Spring Boot 3.4.5** and **Java 21**.  
+  - Implemented **invoice lifecycle automation**, **quote-to-invoice conversion**, and **client/project tracking**.  
+  - Integrated **Keycloak (JWT)** for role-based access and **JasperReports** for PDF generation with QR validation.  
+  - Delivered a **scalable architecture** reducing manual processing time for enterprise clients.  
+
+#### 🔹 Highlights  
+- Delivered **clean, testable code** with **JUnit, Mockito, and WireMock**.  
+- Reduced **API response times by up to 30%** in critical banking services through optimization.  
+- Actively contributed in **Agile teams**, participating in sprint planning, code reviews, and mentoring juniors.  
+
+--- 
+
+---
 
 ### 🎓 Graduated in Computer Science and Engineering from Jashore University of Science and Technology (JUST) in 2019.
 
